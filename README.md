@@ -3,4 +3,5 @@
 - 02dataOper.pdf 데이터형과 연산자
 - 03control.pdf 제어문(조건문, 반복문)
 - 04func.pdf 함수 기초
-- 05string,pdf 문자열 자료형
+- 04string.pdf 문자열 자료형
+- 05-1list.pdf 리스트 자료형
