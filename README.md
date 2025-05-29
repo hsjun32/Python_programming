@@ -8,7 +8,7 @@
 - 06tupleDicSet.pdf 튜플, 딕셔너리, 집합 자료형
 - 07func2.pdf 함수 고급
 - 10file.pdf 파일처리
-- 11exceprion.pdf 예외처리
+- 11exception.pdf 예외처리
 - 11recursion.pdf 재귀호출
 - 12class.pdf 클래스(객체지향)
 
